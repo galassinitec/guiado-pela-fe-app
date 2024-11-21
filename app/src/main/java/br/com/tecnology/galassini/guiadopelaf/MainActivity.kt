@@ -1,3 +1,7 @@
+// Copyright © 2024 Priscila De Oliveira Galassini. Todos os direitos reservados.
+// É proibido copiar, redistribuir, modificar ou usar este código sem permissão.
+
+
 package br.com.tecnology.galassini.guiadopelaf
 
 import android.os.Bundle
